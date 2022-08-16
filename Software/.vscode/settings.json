@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "robot simple": "c",
+        "robot bt": "cpp",
+        "robot laberinto": "cpp",
+        "robot laberinto 2": "cpp",
+        "laberinto_anda": "cpp",
+        "prueba_robot": "cpp"
+    }
+}

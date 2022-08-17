@@ -786,7 +786,8 @@ void setup()
 	AsignacionpinesMOTORES();
 	asignacionPinesSensores();
 	AsignacionPinesPWM();
-}
+}  
+
 void loop()
 {
 	if (Serial.available())

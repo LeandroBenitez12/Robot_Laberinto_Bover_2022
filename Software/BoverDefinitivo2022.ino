@@ -12,14 +12,14 @@
 #define ENB 19
 #define ML1 4
 #define ML2 2
-// ultrasonidos
+// ultrasonidos HR04
 #define ECHO1 35
 #define ECHO2 33
 #define ECHO3 26
 #define ECHO4 14
 #define TRIG1 32
 #define TRIG2 25
-#define TRIG3 27
+#define TRIG3 27 
 #define TRIG4 12
 // Button
 #define BUZZER 23
